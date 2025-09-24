@@ -64,7 +64,11 @@ Step 4 Now select the driver libusb-win32 or libusbk
 
 Step 5 Click INSTALL THE DRIVER
 
+## Upload your first script
 
+There are a few sample script we can choose from in the IDE itself or you can write your own. 
+
+======================================================           PROGRESSING           ======================================================
 
 
 
