@@ -29,7 +29,9 @@ Besides pentesting the Digispark is a good way to automate tasks and to get fami
 
 We first need to get our workspace ready. We need the following:
 
-![Digispark Board](./digispark_board.png)
+
+![Digispark Board](./digispark_impression.png)
+
 
 
 - Digispark microcontroller ATtiny85 (widely available from different manufacturers)
