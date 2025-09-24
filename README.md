@@ -44,7 +44,7 @@ Step 1 Install Arduino IDE: When using Windows 11 it works better to install Ard
 
 Step 2 Install Digiboard: Open the Arduino IDE and go to TOOLS and open the Board manager and search for 'Digistump AVR Boards' and choose version 1.6.7 and click Install.
 
-![Setup_1](./setup_3.png)
+
 
 Step 3 Finish IDE setup: Now back to TOOLS and set Board to Digispark(Default- 16.5mhz) and set the Programmer to Micronucleas.
 
@@ -59,6 +59,8 @@ Step 2 Plug the Digispark in to the USB-port of your machine
 Step 3 In Zadig go to OPTIONS and select LIST ALL DEVICES then from the dropdown select UNKNOWN DEVICE
 
 Step 4 Now select the driver libusb-win32 or libusbk
+
+![Setup_1](./setup_3.png)
 
 Step 5 Click INSTALL THE DRIVER
 
