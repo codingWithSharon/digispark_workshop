@@ -46,7 +46,7 @@ Step 2 Install Digiboard: Open the Arduino IDE and go to TOOLS and open the Boar
 
 ![Setup_1](./setup_4.png)
 
-Step 3 Finish IDE setup: Now back to TOOLS and set Board to Digispark(Default- 16.5mhz) and set the Programmer to Micronucleas.
+Step 3 Finish IDE setup: Now back to TOOLS and set Board to Digispark(Default- 16.5mhz) and set the Programmer to Micronucleus.
 
 ![Setup_1](./setup_1.png)
 
