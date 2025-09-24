@@ -68,7 +68,7 @@ Step 5 Click INSTALL THE DRIVER
 
 There are a few sample script we can choose from in the IDE itself or you can write your own. 
 
-======================================================           PROGRESSING           ======================================================
+=============================================== PROGRESSING ===============================================
 
 
 
