@@ -23,7 +23,7 @@ These tools are powerful, but they must be used responsibly and legally. In pent
 
 
 <br>
-Besides pentesting the Digispark is a good way to way to automate tasks and to get familiar with hotkeys and the terminal.
+Besides pentesting the Digispark is a good way to automate tasks and to get familiar with hotkeys and the terminal.
 
 ## Getting started
 
