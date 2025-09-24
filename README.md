@@ -31,7 +31,7 @@ We first need to get our workspace ready. We need the following:
 <br>
 
 <br>
-![Digispark Board](./digispark_impression.png)
+![Digispark Board](./digispark_impression.PNG)
 <br>
 
 
