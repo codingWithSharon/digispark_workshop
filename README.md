@@ -19,11 +19,10 @@ These tools are powerful, but they must be used responsibly and legally. In pent
 - You have authorized access
 - You’re testing physical security
 - You’re simulating real-world attack vectors
-//This is the first paragraph.
+<br>
 
 
-
-//This is the second paragraph.
+<br>
 Besides pentesting the Digispark is a good way to way to automate tasks and to get familiar with hotkeys and the terminal.
 
 ## Getting started
