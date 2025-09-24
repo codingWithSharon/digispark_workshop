@@ -38,6 +38,8 @@ We first need to get our workspace ready. We need the following:
 - Install [Arduino IDE Legacy IDE (1.8.19)](https://www.arduino.cc/en/software/)
 - Install [Zadig tool](https://zadig.akeo.ie/)
 
+### Set up Arduino IDE
+
 Step 1 Install Arduino IDE
 When using Windows 11 it works better to install Arduino IDE version 1.8.19 
 
@@ -46,6 +48,18 @@ Open the Arduino IDE and go to TOOLS and open the Board manager and search for '
 
 Step 3 Finish IDE setup
 Now back to TOOLS and set Board to Digispark(Default- 16.5mhz) and set the Programmer to Micronucleas.
+
+### Setup driver with Zadig
+
+Step 1 Open de Zadig tool
+
+Step 2 Plug the Digispark in to the USB-port of your machine
+
+Step 3 In Zadig go to OPTIONS and select LIST ALL DEVICES then from the dropdown select UNKNOWN DEVICE
+
+Step 4 Now select the driver libusb-win32 or libusbk
+
+Step 5 Click INSTALL THE DRIVER
 
 
 
