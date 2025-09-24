@@ -40,14 +40,13 @@ We first need to get our workspace ready. We need the following:
 
 ### Set up Arduino IDE
 
-Step 1 Install Arduino IDE
-When using Windows 11 it works better to install Arduino IDE version 1.8.19 
+Step 1 Install Arduino IDE: When using Windows 11 it works better to install Arduino IDE version 1.8.19 
 
-Step 2 Instal Digiboard
-Open the Arduino IDE and go to TOOLS and open the Board manager and search for 'Digistump AVR Boards' and choose version 1.6.7 and click Install.
+Step 2 Install Digiboard: Open the Arduino IDE and go to TOOLS and open the Board manager and search for 'Digistump AVR Boards' and choose version 1.6.7 and click Install.
 
-Step 3 Finish IDE setup
-Now back to TOOLS and set Board to Digispark(Default- 16.5mhz) and set the Programmer to Micronucleas.
+![Setup_1](./setup_1.png)
+
+Step 3 Finish IDE setup: Now back to TOOLS and set Board to Digispark(Default- 16.5mhz) and set the Programmer to Micronucleas.
 
 ### Setup driver with Zadig
 
