@@ -27,4 +27,11 @@ Besides pentesting the Digispark is a good way to automate tasks and to get fami
 
 ## Getting started
 
+We first need to get our workspace ready. We need the following:
+
+- Digispark microcontroller ATtiny85 (widely available from different manufacturers)
+- Install [Arduino IDE Legacy IDE (1.8.19)](https://www.arduino.cc/en/software/)
+- Install [Zadig tool](https://zadig.akeo.ie/)
+
+  
 
